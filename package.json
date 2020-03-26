@@ -1,0 +1,12 @@
+
+{
+	"name": "com.guendeli.assetbundlebrowser",
+	"displayName": "Better Bundle Browser",
+	"version": "1.7.0",
+	"unity": "2018.1",
+	"description": "Asset Bundles Browser.....with right click",
+	"keywords": ["asset", "bundle", "bundles", "assetbundles"],
+	"category": "Asset Bundles",
+	"dependencies": {
+	}
+}
